@@ -1,0 +1,24 @@
+#camera{
+    width: 400px;
+    height: 300px;
+    border: 10px groove rgb(128, 117, 117);
+}
+h1{
+    font-weight: bold ;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+body{
+    
+    background-image: conic-gradient(red 50deg, yellow 100deg, lime 200deg, aqua, blue, magenta, red);
+    
+}
+h3{
+    color: white;
+}
+label{
+    color: white;
+}
+h4{
+    color: white;
+}
